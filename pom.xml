@@ -34,7 +34,7 @@
 
         <main.class>bt.cli.CliClient</main.class>
 
-        <bt-version>1.7-SNAPSHOT</bt-version>
+        <bt-version>1.7</bt-version>
         <jopts-version>5.0.2</jopts-version>
         <slf4j-version>1.7.21</slf4j-version>
         <log4j-version>2.4.1</log4j-version>
